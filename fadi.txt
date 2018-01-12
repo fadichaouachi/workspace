@@ -1,5 +1,0 @@
-votre choix?
-1:inscription d'un candidat
-2:inscription d'un electeur
-3:affichage de la circonscription
-4:quitter
